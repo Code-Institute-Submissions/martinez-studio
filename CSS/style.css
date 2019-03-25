@@ -1,0 +1,283 @@
+.body {
+    font-family: 'Lato', sans-serif;
+}
+
+/* Containers */
+
+.container-wrapper {}
+
+.container-wrapper--red {
+    background-color: #f05f40;
+    color: white;
+}
+
+
+
+.callout-container {
+    height: 100vh;
+
+    background: url("../assets/studium.jpg") no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+/* Navbar */
+
+
+
+.navbar {
+    margin-bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .25);
+    border: 0;
+}
+
+.navbar .navbar-toggler {
+    border: 0;
+}
+
+.navbar .navbar-brand {
+    font-weight: bold;
+}
+
+.navbar .navbar-nav a {
+    font-weight: bold;
+}
+
+.nav-container {
+    
+}
+
+/* Jumbotron */
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.jumbotron h1 {
+
+    font-weight: bold;
+    margin-bottom: 40px;
+    color: #f64c72;
+}
+
+.jumbotron .lead {
+    color: #a7a7a7;
+    margin: 25px 0;
+}
+
+.jumbotron .small {
+    font-size: 90%;
+    font-weight: bold;
+    color: #000000;
+}
+
+/* About*/
+
+.about-row {
+    padding-bottom: 10%;
+    font-size: 1.75em;
+    line-height: 2;
+}
+
+h2 {
+    margin-left: 15px;
+    margin-top: 15%;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+}
+
+.about-row .about-p {
+    font-size: .8em;
+    margin: 40px 0px 40px 0px;
+}
+
+/* Block dividers */
+
+}
+
+/* Buttons */
+
+.btn--cta {
+    font-weight: bold;
+    border-radius: 40px;
+    width: 160px;
+}
+
+.btn--pink {
+    color: white;
+    background-color: #f64c72;
+    border-color: #f64c72;
+}
+
+.btn--pink:hover,
+.btn--pink:active,
+.btn--pink:focus,
+.btn--pink:active:focus {
+    background-color: #ffffff;
+    border-color: #ffffff;
+    color: white;
+}
+
+/* Alert */
+
+.alert-container .col-12 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.site-wide-alert {
+    color: #544600;
+    background-color: #eec802;
+    border-color: #eec802;
+    padding: 5px 15px;
+    margin-bottom: 0;
+    border: 1px solid transparent;
+    border-radius: 0;
+}
+
+/* Page Headers */
+
+.page-header {
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+}
+
+.page-header h2 {
+    margin-top: 0;
+}
+
+/* Quotes */
+
+.quotes .page-header {
+    margin-bottom: 25px;
+}
+
+/* Features */
+
+.features {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.features i {
+    margin-bottom: 20px;
+    font-size: 45px;
+    line-height: 45px;
+}
+
+.features .btn {
+    background-color: white;
+    border-color: white;
+    border-radius: 15px;
+    min-width: 100px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #f05f40;
+}
+
+/*-------CONTACT-----------*/
+
+#contact {
+    background-attachment: fixed;
+    background-image: url('../images/computer.jpg');
+    background-position: left;
+    background-size: cover;
+    padding-bottom: 100px;
+    padding-top: 42px;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.contact-form {
+    position: relative;
+    top: 6%;
+}
+
+#contact-head {
+    margin: 30px -11px 25px 0px;
+}
+
+.contact {
+    margin: 15px 0px 15px 0px;
+
+
+
+
+
+/*footer*/
+
+
+.footer {
+    border-color: transparent;
+    text-align: center;
+}
+
+.foot {
+    margin-bottom: 20px;
+}
+
+a {
+    padding: 5px 15px 5px 10px;
+    background-color: transparent;
+}
+
+.alignment {
+    line-height: 2px;
+}
+
+i {
+    display: inline-block;
+    box-shadow: 0px 0px 2px #888;
+    background-color: #C3C3C3;
+    color: #8F8F8F;
+    width: 41px;
+    height: 41px;
+    padding: 20px 0;
+    border-radius: 50%;
+    font-size: 28px;
+    text-align: center;
+    vertical-align: middle;
+    transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+    margin-top: 2.5px;
+    margin-bottom: 2.5px;
+
+}
+
+i:hover {
+    color: #564F6F;
+
+}
+
+
+@media (min-width: 992px) {
+    #about-me {
+        background-image: url('../assets/IMG_20180715_205227.jpg');
+        background-position: center;
+        background-size: cover;
+        width: 100vw;
