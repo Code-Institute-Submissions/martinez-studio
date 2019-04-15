@@ -78,4 +78,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from
+https://www.youtube.com/watch?v=AvMl3StAju4
+https://www.quicksprout.com/trending-website-color-schemes/
+https://www.youtube.com/watch?time_continue=7&v=_LWWPgudUZU

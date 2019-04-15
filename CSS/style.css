@@ -7,10 +7,14 @@
 .container-wrapper {}
 
 .container-wrapper--red {
-    background-color: #f05f40;
+    background-color: #393f4d;
     color: white;
 }
 
+.carousel-inner > .item > img {
+  width:640px;
+  height:360px;
+}
 
 
 .callout-container {
@@ -59,38 +63,36 @@
 }
 
 .navbar .navbar-brand {
-    font-weight: bold;
+    font-weight: normal;
 }
 
 .navbar .navbar-nav a {
-    font-weight: bold;
+    font-weight: normal;
 }
 
-.nav-container {
-    
-}
+
 
 /* Jumbotron */
 
 .jumbotron {
-    background-color: transparent;
+    background-color: #393f4d
 }
 
 .jumbotron h1 {
 
-    font-weight: bold;
-    margin-bottom: 40px;
-    color: #f64c72;
+    font-weight:normal;
+    margin-bottom: 50px;
+    color:#393f4d;
 }
 
 .jumbotron .lead {
-    color: #a7a7a7;
+    color: #393f4d;
     margin: 25px 0;
 }
 
 .jumbotron .small {
     font-size: 90%;
-    font-weight: bold;
+    font-weight: normal;
     color: #000000;
 }
 
@@ -102,15 +104,13 @@
     line-height: 2;
 }
 
-h2 {
-    margin-left: 15px;
-    margin-top: 15%;
-    letter-spacing: 7px;
-    text-transform: uppercase;
+
+    
+    
 }
 
 .about-row .about-p {
-    font-size: .8em;
+    font-size: .10em;
     margin: 40px 0px 40px 0px;
 }
 
@@ -120,26 +120,8 @@ h2 {
 
 /* Buttons */
 
-.btn--cta {
-    font-weight: bold;
-    border-radius: 40px;
-    width: 160px;
-}
 
-.btn--pink {
-    color: white;
-    background-color: #f64c72;
-    border-color: #f64c72;
-}
 
-.btn--pink:hover,
-.btn--pink:active,
-.btn--pink:focus,
-.btn--pink:active:focus {
-    background-color: #ffffff;
-    border-color: #ffffff;
-    color: white;
-}
 
 /* Alert */
 
@@ -149,9 +131,9 @@ h2 {
 }
 
 .site-wide-alert {
-    color: #544600;
-    background-color: #eec802;
-    border-color: #eec802;
+    color: #3fb0ac;
+    background-color: #393f4d;
+    border-color: #393f4d;
     padding: 5px 15px;
     margin-bottom: 0;
     border: 1px solid transparent;
@@ -178,32 +160,32 @@ h2 {
 
 /* Features */
 
-.features {
+.spectrum {
     text-align: center;
     margin-bottom: 40px;
 }
 
-.features i {
+.spectrum i {
     margin-bottom: 20px;
     font-size: 45px;
     line-height: 45px;
 }
 
-.features .btn {
+.spectrum .btn {
     background-color: white;
     border-color: white;
     border-radius: 15px;
     min-width: 100px;
     font-weight: bold;
     margin-top: 10px;
-    color: #f05f40;
+    color: #393f4d;
 }
 
 /*-------CONTACT-----------*/
 
 #contact {
     background-attachment: fixed;
-    background-image: url('../images/computer.jpg');
+    background-image: url('http://www.unitefoundation.co.uk/wp-content/uploads/2019/01/pablo-gentile-587380-unsplash.jpg');
     background-position: left;
     background-size: cover;
     padding-bottom: 100px;
@@ -217,7 +199,7 @@ h2 {
     top: 6%;
 }
 
-#contact-head {
+.contact-head {
     margin: 30px -11px 25px 0px;
 }
 
@@ -252,8 +234,8 @@ a {
 i {
     display: inline-block;
     box-shadow: 0px 0px 2px #888;
-    background-color: #C3C3C3;
-    color: #8F8F8F;
+    background-color: #393f4d;
+    color: #393f4d;
     width: 41px;
     height: 41px;
     padding: 20px 0;
@@ -270,7 +252,7 @@ i {
 }
 
 i:hover {
-    color: #564F6F;
+    color: #393f4d;
 
 }
 
