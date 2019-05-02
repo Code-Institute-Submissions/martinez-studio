@@ -2,6 +2,8 @@
     font-family: 'Lato', sans-serif;
 }
 
+.aqua{color:#3fb0ac}
+
 /* Containers */
 
 
@@ -68,8 +70,6 @@
 .navbar .navbar-nav a {
     font-weight: normal;
 }
-
-
 
 /* Jumbotron */
 
@@ -173,7 +173,7 @@
     min-width: 100px;
     font-weight: bold;
     margin-top: 10px;
-    color: #393f4d;
+    color: #3fb0ac;
 }
 
 /*-------CONTACT-----------*/
