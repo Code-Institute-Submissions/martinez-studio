@@ -4,7 +4,6 @@
 
 /* Containers */
 
-.container-wrapper {}
 
 .container-wrapper--red {
     background-color: #393f4d;
@@ -105,10 +104,6 @@
 }
 
 
-    
-    
-}
-
 .about-row .about-p {
     font-size: .10em;
     margin: 40px 0px 40px 0px;
@@ -116,7 +111,7 @@
 
 /* Block dividers */
 
-}
+
 
 /* Buttons */
 
@@ -132,8 +127,8 @@
 
 .site-wide-alert {
     color: #3fb0ac;
-    background-color: #393f4d;
-    border-color: #393f4d;
+    background-color: #fae795;
+    border-color: #fae796;
     padding: 5px 15px;
     margin-bottom: 0;
     border: 1px solid transparent;
@@ -234,8 +229,8 @@ a {
 i {
     display: inline-block;
     box-shadow: 0px 0px 2px #888;
-    background-color: #393f4d;
-    color: #393f4d;
+    background-color: #ddd7d4;
+    color: #173e43;
     width: 41px;
     height: 41px;
     padding: 20px 0;
