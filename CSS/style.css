@@ -71,19 +71,19 @@
     font-weight: normal;
 }
 
-.label {color:aqua;
+.label {color:aqua;}
 
 /* Jumbotron */
 
-.jumbotron {
-    background-color:#fae596
+.jumbotron-fluid{
+    background-color: #fae596
 }
 
 .jumbotron h1 {
 
     font-weight:normal;
     margin-bottom: 50px;
-    color:#fae596;
+    color:#dddfd4;
 }
 
 .jumbotron .lead {
