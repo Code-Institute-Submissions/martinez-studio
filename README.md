@@ -1,8 +1,10 @@
-# Your Project's Name
+# Martinez Photography
 
-One or two paragraphs providing an overview of your project.
+This website is made as "Mockup website" for my friends who I would like to show how his website can look like.
+He is making photos from a long time, but dosent have a courge to do it as his business.
+This website shoud bring interested customer to buy from him, selected products and as well show spectrum of his ?
 
-Essentially, this part is your sales pitch.
+
  
 ## UX
  
@@ -74,11 +76,15 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from
+- 
+from where my photos are used from hmm??
+Do you even remember dear lady?
+
 
 ### Acknowledgements
 
 - I received inspiration for this project from
 https://www.youtube.com/watch?v=AvMl3StAju4
-https://www.quicksprout.com/trending-website-color-schemes/
-https://www.youtube.com/watch?time_continue=7&v=_LWWPgudUZU
+
+
