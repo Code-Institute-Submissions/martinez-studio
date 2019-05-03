@@ -7,8 +7,8 @@
 /* Containers */
 
 
-.container-wrapper--red {
-    background-color: #393f4d;
+.container-wrapper {
+    background-color: #FFFDE7;
     color: white;
 }
 
@@ -76,7 +76,7 @@
 /* Jumbotron */
 
 .jumbotron-fluid{
-    background-color: #fae596
+    background-color: #FFFDE7
 }
 
 .jumbotron h1 {
@@ -87,7 +87,7 @@
 }
 
 .jumbotron .lead {
-    color: #fae596;
+    color: #FFFDE7;
     margin: 25px 0;
 }
 
@@ -173,7 +173,7 @@
     border-color: white;
     border-radius: 15px;
     min-width: 100px;
-    font-weight: bold;
+    font-weight: normal;
     margin-top: 10px;
     color: #3fb0ac;
 }

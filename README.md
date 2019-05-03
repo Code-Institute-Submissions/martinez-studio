@@ -78,6 +78,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Media
 - The photos used in this site were obtained from
 - 
+https://www.pexels.com/photo/man-wearing-red-sweatshirt-and-black-pants-leaning-on-the-wall-845434/
+- 
 from where my photos are used from hmm??
 Do you even remember dear lady?
 
