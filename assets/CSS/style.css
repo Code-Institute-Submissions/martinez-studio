@@ -7,8 +7,9 @@
 /* Containers */
 
 
-.big-about {
+.big-banner-about {
  background-image:url('../images/adult.jpg')
+ 
 
 
 }
@@ -22,7 +23,7 @@
 }
 .carousel-inner{
   width:6%;
-  max-height: 30px} !important;
+  max-height: 30px}
 
 
 .callout-container {
