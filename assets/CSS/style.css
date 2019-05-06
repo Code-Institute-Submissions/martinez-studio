@@ -8,11 +8,11 @@
 
 
 .big-banner-about {
- background-image:url('../images/adult.jpg')
+ background-image:url("../images/adult.jpg")} !important
  
 
 
-}
+
 .container-wrapper {
     background-color: #FFFDE7;
     color: white;
