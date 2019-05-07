@@ -8,7 +8,7 @@
 
 
 .big-banner-about {
- background-image:url("../images/adult.jpg")} !important
+ background-image:url("/assets/images/adult.jpg")}
  
 
 
@@ -21,6 +21,8 @@
 .tales {
   width: 100%;
 }
+
+
 .carousel-inner{
   width:6%;
   max-height: 30px}
@@ -89,9 +91,10 @@
 
 .jumbotron h1 {
 
-    font-weight:normal;
+    font-weight:thin ;
     margin-bottom: 50px;
     color:#dddfd4;
+    text-align: center
 }
 
 .jumbotron .lead {
@@ -179,7 +182,7 @@
 /* Features */
 
 .spectrum {
-    text-align: center;
+    text-align: justify;
     margin-bottom: 40px;
 }
 
@@ -187,6 +190,7 @@
     margin-bottom: 20px;
     font-size: normal
     line-height: 45px;
+    text-align: center
 }
 
 .spectrum .btn {
@@ -197,6 +201,7 @@
     font-weight: normal;
     margin-top: 10px;
     color: #3fb0ac;
+    text-align: center
 }
 
 /*-------CONTACT-----------*/
@@ -275,11 +280,3 @@ i:hover {
 }
 
 
-@media (min-width: 992px) {
-    #about-me {
-        background-image: url('../assets/IMG_20180715_205227.jpg');
-        background-position: center;
-        background-size: cover;
-        width: 100vw;
-    }
-}
