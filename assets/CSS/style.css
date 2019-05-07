@@ -1,5 +1,5 @@
 .body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .aqua{color:#3fb0ac}
@@ -185,7 +185,7 @@
 
 .spectrum i {
     margin-bottom: 20px;
-    font-size: 45px;
+    font-size: normal
     line-height: 45px;
 }
 
