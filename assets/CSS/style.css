@@ -7,6 +7,11 @@
 /* Containers */
 
 
+
+.container-fluid {
+    margin-bottom: 100px
+}
+
 .big-banner-about {
  background-image:url("/assets/images/adult.jpg")}
  
