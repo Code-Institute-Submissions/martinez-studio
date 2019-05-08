@@ -6,24 +6,17 @@
 
 /* Containers */
 
-
-
-.container-fluid {
-    margin-bottom: 100px
-}
-
-.big-banner-about {
- background-image:url("/assets/images/adult.jpg")}
- 
 .bg {
-  position: fixed; 
+  position: left; 
   top: -50%; 
   left: -50%; 
   width: 200%; 
   height: 200%;
 }
 .bg img {
-  position: absolute; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   top: 0; 
   left: 0; 
   right: 0; 
@@ -33,9 +26,12 @@
   min-height: 50%;
 }
 
+.jumbotron{
+ background-color: #ffffff
+}
 
-.container-wrapper {
-    background-color: #FFFDE7;
+.container {
+    background-color: #FFFFFF;
     color: white;
 }
 
@@ -44,9 +40,7 @@
 }
 
 
-.carousel-inner{
-  width:6%;
-  max-height: 30px}
+
 
 
 .callout-container {
@@ -79,7 +73,7 @@
     padding-bottom: 75px;
 }
 
-/* Navbar */
+/* NAVBAR */
 
 
 
@@ -107,27 +101,23 @@
 /* Jumbotron */
 
 .jumbotron-fluid{
-    background-color: #FFFDE7
+    background-color: #FFFFFF
 }
 
 .jumbotron h1 {
 
     font-weight:thin ;
     margin-bottom: 50px;
-    color:#dddfd4;
+    color:#ffffff;
     text-align: center
 }
 
 .jumbotron .lead {
-    color: #FFFDE7;
+    color: #FFFFFF;
     margin: 25px 0;
 }
 
-.jumbotron .small {
-    font-size: 90%;
-    font-weight: normal;
-    color: #000000;
-}
+
 
 /* About*/
 
@@ -153,15 +143,6 @@
     position: relative;
 }
 
-.hero-img-order{
-    background-image: url("../images/adult.jpg");
-    background-position: center 55%;
-}
-
-
-
-/* Buttons */
-
 
 
 
@@ -174,8 +155,8 @@
 
 .site-wide-alert {
     color: aqua;
-    background-color: #dddfd4;
-    border-color: #dddfd4;
+    background-color: #ffffff;
+    border-color: #ffffff;
     padding: 5px 15px;
     margin-bottom: 0;
     border: 1px solid transparent;
@@ -227,7 +208,7 @@
 
 /*-------CONTACT-----------*/
 
-#contact {
+.contact {
     background-attachment: fixed;
     background-image: url('http://www.unitefoundation.co.uk/wp-content/uploads/2019/01/pablo-gentile-587380-unsplash.jpg');
     background-position: left;
@@ -253,18 +234,96 @@
 }
 
 
-
-/*footer*/
-
+/*FOOTER*/
 
 .footer {
-    border-color: transparent;
-    text-align: center;
+  background: #16222A;
+  background: -webkit-linear-gradient(59deg, #3A6073, #16222A);
+  background: linear-gradient(59deg, #3A6073, #16222A);
+  color: white;
+  margin-top:100px;
 }
 
-.foot {
-    margin-bottom: 20px;
+
+/*SOCİAL İCONS*/
+
+/* footer social icons */
+
+ul.social-network {
+  list-style: none;
+  display: inline;
+  margin-left: 0 !important;
+  padding: 0;
 }
+
+ul.social-network li {
+  display: inline;
+  margin: 0 5px;
+}
+
+.social-network a.icoFacebook:hover {
+  background-color: #3B5998;
+}
+
+.social-network a.icoLinkedin:hover {
+  background-color: #007bb7;
+}
+
+.social-network a.icoFacebook:hover i,
+.social-network a.icoLinkedin:hover i {
+  color: #fff;
+}
+
+.social-network a.socialIcon:hover,
+.socialHoverClass {
+  color: #44BCDD;
+}
+
+.social-circle li a {
+  display: inline-block;
+  position: relative;
+  margin: 0 auto 0 auto;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  text-align: center;
+  width: 30px;
+  height: 30px;
+  font-size: 15px;
+}
+
+.social-circle li i {
+  margin: 0;
+  line-height: 30px;
+  text-align: center;
+}
+
+.social-circle li a:hover i,
+.triggeredHover {
+  -moz-transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+  -ms--transform: rotate(360deg);
+  transform: rotate(360deg);
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.social-circle i {
+  color: #595959;
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -o-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+  transition: all 0.8s;
+}
+
+.social-network a {
+  background-color: #F9F9F9;
+}
+
 
 a {
     padding: 5px 15px 5px 10px;
