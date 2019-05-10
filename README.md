@@ -4,10 +4,17 @@ This website is made as "Mockup website" for my friends who I would like to show
 He is making photos from a long time, but dosent have a courge to do it as his business.
 This website shoud bring interested customer to buy from him, selected products and as well show spectrum of his ?
 
-
  
 ## UX
  
+My website is designed for professional photographer who wants to show his portfolio in a fancy way. 
+Being different than others and actually encourage potenial customers to choose him as their photographer on special occasion.
+
+Website is bright and easy to navigate. First thing that potential user will see will be a carousel banner with three main photos.
+This photos should tell to user what specific of photography is presenteted and specialized for.
+About other parts of page----
+
+
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
