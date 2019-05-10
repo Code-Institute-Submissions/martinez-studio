@@ -3,6 +3,14 @@
     
 }
 
-.my-2 {
-    
+.wrapper {
+    height: 100px;
+    width: 100px;
+}
+
+.image {
+    background-image: url("https://unsplash.com/photos/M29iLP9IeGo");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    height: 100%;
 }
