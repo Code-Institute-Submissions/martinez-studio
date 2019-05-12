@@ -3,26 +3,9 @@
     
 }
 
-.wrapper {
-    height: 100px;
-    width: 100px;
+#about {
+background-image:url("/assets/images/adult.jpg");
 }
-
-.image {
-    background-image: url("https://unsplash.com/photos/M29iLP9IeGo");
-    background-size: cover; 
-    background-repeat: no-repeat;
-    height: 100%;
-}
-
-.parallax { 
-    background-image: url("https://unsplash.com/photos/Gcl6jcB1r9g"); 
-    min-height: 500px;  
-    background-attachment: fixed; 
-    background-position: center; 
-    background-repeat: no-repeat; 
-    background-size: cover; 
-} 
 
 
 .social-links {
