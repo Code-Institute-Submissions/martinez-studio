@@ -3,6 +3,15 @@
     
 }
 
+
+#slider {
+   height: 650px;  
+}
+
+
+
+
+
 #about {
 background-image:url("/assets/images/adult.jpg");
 height: 650px; 
@@ -12,8 +21,12 @@ background-position: center;
   background-size: cover; 
 color:#ffffff;
 text-align: left; padding: 202px;
-
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+
+
+
 
 #recomend {
 background-color:#065A61;
