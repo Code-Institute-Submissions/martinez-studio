@@ -10,19 +10,26 @@ opacity:0.95;
 background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover; 
-color:#fafafa;
+color:#ffffff;
 text-align: left; padding: 202px;
 
 }
 
 #recomend {
-background-color:#173e43;
+background-color:#065A61;
+background-image: linear-gradient(white,teal, white);
 color:#fafafa;
 height: 600px;
-opacity: 0,9;
+padding-top: 100px
 
 
 }
+
+.wheel{
+height: 180px;
+
+}
+
 
 .social-links {
     padding-bottom: 15px;
