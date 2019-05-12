@@ -37,8 +37,8 @@
     font-size: 13px;
     line-height: 7px;
     text-align: center;
-    color: #3fb0ac;
-    background: #dddfd4;
+    color: #fafafa;
+    background: #3fb0ac;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -49,6 +49,40 @@
     background: #173e43;
 }
 
+#follow-negative-space{
+  margin-top : 190px;
+}
+
 #icons-negative-space{
-    margin-top: 100px
+    margin-top: 30px
+}
+
+.button {
+  background-color: #3fb0ac;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button:hover {
+    background-color: #173e43;
+}
+
+.button-readme {
+  background-color: #3fb0ac;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button-readme:hover {
+    background-color: #173e43;
 }
