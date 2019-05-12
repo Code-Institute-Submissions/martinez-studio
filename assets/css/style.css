@@ -5,7 +5,16 @@
 
 #about {
 background-image:url("/assets/images/adult.jpg");
+height: 650px; 
+opacity:0.95;
+background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+color:#fafafa;
+text-align: left; padding: 202px;
+
 }
+
 
 
 .social-links {
