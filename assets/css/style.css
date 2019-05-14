@@ -3,12 +3,29 @@
     
 }
 
-
-#slider {
-   height: 650px;  
+.carousel-fade .carousel-inner .item {
+  opacity: 0;
+  -webkit-transition-property: opacity;
+  -moz-transition-property: opacity;
+  -o-transition-property: opacity;
+  transition-property: opacity;
 }
-
-
+.carousel-fade .carousel-inner .active {
+  opacity: 1;
+}
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  opacity: 0;
+  z-index: 1;
+}
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+.carousel-fade .carousel-control {
+  z-index: 2;
+}
 
 
 
@@ -26,7 +43,7 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 #spectrum{
 background-color:teal;
-background-image: linear-gradient(BLACK,teal, white);
+background-image: linear-gradient(white,#ffcb9a, white);
 color:#fafafa;
 height: 600px;
 padding-top: 100px
@@ -34,7 +51,7 @@ padding-top: 100px
 
 #recomend {
 background-color:#065A61;
-background-image: linear-gradient(white,teal, white);
+background-image: linear-gradient(white,#ffcb9a, white);
 color:#fafafa;
 height: 600px;
 padding-top: 100px
@@ -68,7 +85,7 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     line-height: 7px;
     text-align: center;
     color: #fafafa;
-    background: #3fb0ac;
+    background: #116466;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -76,7 +93,7 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .social-links li a i:hover {
-    background: #173e43;
+    background: #d9b08c;
 }
 
 #follow-negative-space{
@@ -88,7 +105,7 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .button {
-  background-color: #3fb0ac;
+  background-color: #166466;
   border-radius: 5px;
   color: white;
   padding: 15px 32px;
@@ -99,11 +116,11 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .button:hover {
-    background-color: #173e43;
+    background-color: #d9b08c;
 }
 
 .button-readme {
-  background-color: #3fb0ac;
+  background-color: #166466;
   border-radius: 5px;
   color: white;
   padding: 15px 32px;
@@ -114,5 +131,5 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .button-readme:hover {
-    background-color: #173e43;
+    background-color: #d9b08c;
 }
