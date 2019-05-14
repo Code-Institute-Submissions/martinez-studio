@@ -31,7 +31,7 @@ opacity:0.95;
 background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover; 
-color:#ffffff;
+color:#000000;
 text-align: left; padding: 202px;
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -40,7 +40,7 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 background-color:teal;
 background-image: linear-gradient(white,#dddfd4, white);
-color:#fafafa;
+color:#000000;
 height: 600px;
 padding-top: 100px
 }
