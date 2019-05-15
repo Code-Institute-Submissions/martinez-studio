@@ -43,7 +43,7 @@ background-color:teal;
 background-image: linear-gradient(white,#dddfd4, white);
 color:#000000;
 height: 600px;
-padding-top: 100px
+padding-top: 60px
 }
 
 #recomend {
@@ -116,7 +116,7 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     background-color:#d9b08c;
 }
 
-.button-readme {
+.btn-info {
   background-color: #166466;
   border-radius: 5px;
   color: white;
@@ -127,6 +127,6 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   cursor: pointer;
 }
 
-.button-readme:hover {
+.btn-info :hover {
     background-color: #d9b08c;
 }
