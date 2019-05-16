@@ -1,5 +1,12 @@
 .bd-example {
     height: 10vh; 
+
+body{
+    position:relative;
+} 
+ 
+ 
+ 
     
 }
 .active {
