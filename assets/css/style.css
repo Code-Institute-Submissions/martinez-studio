@@ -34,7 +34,7 @@ body{
 
 
 
-#about {
+#bio {
 background-image:url("/assets/images/jo.jpg");
 height: 650px
 ; 
@@ -47,7 +47,7 @@ text-align: left; padding: 202px;
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-#spectrum{
+#about{
 
 background-color:teal;
 background-image: linear-gradient(white,#dddfd4, white);
@@ -56,7 +56,7 @@ height: 600px;
 padding-top: 60px
 }
 
-#recomend {
+#testimonials {
 background-color:#065A61;
 background-image: linear-gradient(white,#dddfd4, white);
 color:#fafafa;
