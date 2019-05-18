@@ -5,8 +5,7 @@ body{
     position:relative;
 } 
  
- 
- 
+
     
 }
 .active {
@@ -47,10 +46,9 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 #about{
+background-color:#2B2B2B;
 
-background-color:teal;
-background-image: linear-gradient(white,#dddfd4, white);
-color:#000000;
+color:#FFFFFF;
 height: 600px;
 padding-top: 60px
 }
