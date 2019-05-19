@@ -5,11 +5,14 @@ body{
     position:relative;
 } 
  
+.navbar{ 
+    font-size:20px;
+}
 
     
 }
 .active {
-    border-bottom: none
+    border-bottom: none;
 } 
 
 .carousel-caption h2{
