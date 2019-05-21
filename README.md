@@ -1,8 +1,9 @@
 # Martinez Photography 
 
+This website is made for a photographer who is having his Photography Studio.
+This web page showing what kind of spectrum of photography he is making and what jobs he made previously.
 
-He is making photos from a long time, but dosent have a courge to do it as his business.
-This website shoud bring interested customer to buy from him, selected products and as well show spectrum of his ?
+This website shoud bring interest of customers wanting to hire him or just have a quick sneak peak who he is.
 
  
 ## UX 
