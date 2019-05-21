@@ -1,13 +1,14 @@
-# Martinez Photography
+# Martinez Photography 
 
-This website is made as "Mockup website" for my friends who I would like to show how his website can look like.
+
 He is making photos from a long time, but dosent have a courge to do it as his business.
 This website shoud bring interested customer to buy from him, selected products and as well show spectrum of his ?
 
  
-## UX
+## UX 
  
-My website is designed for professional photographer who wants to show his portfolio in a fancy way. 
+My website is designed for professional photographer who wants to show a spetrum of his service.
+He is aming rather to have premium service. For that reason I used colors that are no
 Being different than others and actually encourage potenial customers to choose him as their photographer on special occasion.
 
 Website is bright and easy to navigate. First thing that potential user will see will be a carousel banner with three main photos.
@@ -39,11 +40,18 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Technologies Used
 
+This project use:
+
+-[HTML] 
+-[Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction)
+HTML using Bootstrap 4 frameworks- to build a core content.
+
+-[CSS]
+To style a code and make better UX
+
+And basics of -[Javascript] (https://www.javascripting.com/)
+- Project uses **Javascript** to make simple animations
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
 
 ## Testing
 
@@ -78,22 +86,60 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ## Credits
+---
+
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+---
+None of the texts were copied. All of them I did by myslef.
 
 ### Media
+---
 - The photos used in this site were obtained from
-- 
-https://www.pexels.com/photo/man-wearing-red-sweatshirt-and-black-pants-leaning-on-the-wall-845434/
-- 
-from where my photos are used from hmm??
-Do you even remember dear lady?
+
+-https://unsplash.com/photos/40hKlFYAOeg
+https://unsplash.com/photos/wn-KYaHwcis
+https://unsplash.com/photos/2_RQhbu0ZDQ
+
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjEg7S4qa3iAhUOVhoKHSuTBJUQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttp%253A%252F%252Fmyphotographylimited.co.uk%252Fpackages-and-pricing%252Ffamily-photoshoot%252F%26psig%3DAOvVaw0kb3nnCpQJlA8TQQDq3IZK%26ust%3D1558552174271722&psig=AOvVaw0kb3nnCpQJlA8TQQDq3IZK&ust=1558552174271722
+https://img.staticbg.com/thumb/large/oaupload/banggood/images/80/EA/455e5fde-56e9-4bc7-9901-ca7073495621.jpg
+
+
+https://source.unsplash.com/pWkk7iiCoDM/400x300
+https://source.unsplash.com/aob0ukAYfuI/400x300
+https://source.unsplash.com/EUfxH-pze7s/400x300
+https://source.unsplash.com/M185_qYH8vg/400x300
+https://source.unsplash.com/sesveuG_rNo/400x300
+https://source.unsplash.com/AvhMzHwiE_0/400x300
+https://source.unsplash.com/2gYsZUmockw/400x300
+https://source.unsplash.com/EMSDtjVHdQ8/400x300
+https://source.unsplash.com/8mUEy0ABdNE/400x300
+https://source.unsplash.com/aJeH0KcFkuc/400x300
+https://source.unsplash.com/G9Rfc1qccH4/400x300
+https://source.unsplash.com/p2TQ-3Bh3Oo/400x300
+
+https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/man37974.png
+https://img.etimg.com/thumb/msid-60186332,width-643,imgsize-195949,resizemode-4/bond-girl-gemma-arterton-reveals-her-traumatic-experience-at-the-gym.jpg
+
+
+**Logo was designed by myself**
+I used a website wwww.freelogodesign.org
+
 
 
 ### Acknowledgements
 
 - I received inspiration for this project from
+
+https://www.awwwards.com/
+https://mdbootstrap.com/plugins/jquery/gallery/
+https://visme.co/blog/website-color-schemes/
 https://www.youtube.com/watch?v=AvMl3StAju4
+https://www.youtube.com/watch?v=sDwx9Pe-aWA&list=PLo2mYp7F9HE_BjU3VS1MccutBmqh775OX
+https://www.youtube.com/watch?v=1FnMDubA25A
+https://getbootstrap.com/docs/4.3/components/card/
+https://getbootstrap.com/docs/4.3/components/buttons/
+https://css-tricks.com/perfect-full-page-background-image/
+https://www.youtube.com/watch?v=HUBNt18RFbo
 
 
