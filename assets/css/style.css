@@ -1,3 +1,8 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
 
 .bd-example {
     height: 10vh; 
@@ -67,12 +72,34 @@ color:#2b2b2b;
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-#biotxt{
-    padding-top: 120px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
-    
+.wrap {
+  position: relative;
 }
+
+.bio-bg {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 30px;
+    margin: 0 auto;
+  background-position: center -100px;
+  -webkit-filter: blur(7px);
+}
+
+.bio-text {
+    border: 2px solid white;
+    padding: 50px;
+    margin: 0 auto;
+    position: relative;
+    max-width: 500px;
+
+}
+
+
+
 
 #testimonials {
 background-color: #343a40;

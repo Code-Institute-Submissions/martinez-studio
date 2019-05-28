@@ -158,21 +158,27 @@
   <section>
     <div class="container-fluid" id="bio">
 
-      <div class="container d-block" id="biotxt">
+      <div class="container d-block">
         <div class="row">
           <div class="col-sm-12 col-md-6 col-lg-4 text-center p-2"></div>
-          <div class="col-sm-12 col-md-6 col-lg-4 text-center p-2"></div>
-          <div class="col-sm-12 col-md-6 col-lg-4 text-center p-5">
-            <h1 class="font-weight-normal text-center text-lg-center mt-4 mb-0">Bio</h1>
-            <hr />
-            <P class="d-block text-center">
-              Seb Martinez is an advertising, editorial and PR photographer based in Reading with ten-years’ experience shooting everything from world renowned athletes, CEO’s of blue-chip companies and the Royal Family. An exciting photographer who has already made
-              a significant name for himself, Seb takes great pride in consistently pushing his clients expectations by delivering high quality content for some of the biggest brands in the industry.
-            </P>
+
+          <div class="col-sm-12 col-md-6 offset-md-6 col-lg-4 offset-lg-4 text-center pt-5">
+            <div class="wrap">
+              <div class="bio-bg"></div>
+              <div class="bio-text">
+                <h1 class="font-weight-normal text-center text-lg-center mt-4 mb-0">Bio</h1>
+                <hr />
+                <p class="d-block text-center">
+                  Seb Martinez is an advertising, editorial and PR photographer based in Reading with ten-years’ experience shooting everything from world renowned athletes, CEO’s of blue-chip companies and the Royal Family. An exciting photographer who has already made
+                  a significant name for himself, Seb takes great pride in consistently pushing his clients expectations by delivering high quality content for some of the biggest brands in the industry.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
+
   </section>
 
   <!--Gallery-->
@@ -267,8 +273,8 @@
           <div class="carousel-item active">
             <img class="rounded-circle pb-3" src="assets/images/june.jpg" alt="Blonde">
             <h3>Joanna Reed</h3>
-            <p> 
-            <er>Professional Photographer, He made Fun And Natural Shots on my Wedding. Seb helped to Capture Those Unmissable Moments. </er>
+            <p>
+              <en>Professional Photographer, He made Fun And Natural Shots on my Wedding. Seb helped to Capture Those Unmissable Moments. </en>
             </p>
             <p><strong> Happy Bride!</strong></p>
           </div>
@@ -342,26 +348,26 @@
       </div>
       <div class="col-md-6">
         <form>
-        <div class="form-goup">
-          <label>Name</label>
-          <input type="text" class="form-control" placeholder="Your name" required/>
-        </div>
-
-        <div class="form-goup">
-          <label>Email</label>
-          <input type="email" class="form-control" placeholder="Your E-mail" required/>
-        </div>
-
-        <div class="form-goup">
-          <label>Message</label>
-          <textarea class="form-control" rows="7" placeholder="Type your message here" required></textarea>
-        </div>
-
-        <div class="form-goup">
-          <div id="button">
-            <button class="button btn-block" type="submit">Send</button>
+          <div class="form-goup">
+            <label>Name</label>
+            <input type="text" class="form-control" placeholder="Your name" required/>
           </div>
-        </div>
+
+          <div class="form-goup">
+            <label>Email</label>
+            <input type="email" class="form-control" placeholder="Your E-mail" required/>
+          </div>
+
+          <div class="form-goup">
+            <label>Message</label>
+            <textarea class="form-control" rows="7" placeholder="Type your message here" required></textarea>
+          </div>
+
+          <div class="form-goup">
+            <div id="button">
+              <button class="button btn-block" type="submit">Send</button>
+            </div>
+          </div>
         </form>
       </div>
     </div>
@@ -380,19 +386,21 @@
       </div>
     </div>
   </footer>
-  
-  
-  
+
+
+
   <!-- Bootstrap 4 -JavaScipt-->
-  
-  
+
+
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-  
+
   <!-- Scroll-Spy-->
-  <script>$('body').scrollspy({ target: '#navbarResponsive',  offset:-150 })</script>
-  
+  <script>
+    $('body').scrollspy({ target: '#navbarResponsive', offset: -100 })
+  </script>
+
 </body>
 
 </html>
