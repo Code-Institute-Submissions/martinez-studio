@@ -1,4 +1,4 @@
-# Martinez Photography 
+# Martinez Studio
 
 This website is made for a photographer who is having his Photography Studio.
 This web page showing what kind of spectrum of photography he is making and what jobs he made previously.
@@ -7,6 +7,8 @@ This website shoud bring interest of customers wanting to hire him or just have 
 
  
 ## UX 
+
+My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist design. The navyblue, aqua and white color scheme was chosen to create a modern and sleek feel. At the same time Photography made by studio Martinez are very close to nature, sturfer and chilled down style. This is why aqua color si incorpaorted in this project
  
 My website is designed for professional photographer who wants to show a spetrum of his service.
 He is aming rather to have premium service. For that reason I used colors that are no
