@@ -1,22 +1,38 @@
 # Martinez Studio
 
-This website is made for a photographer who is having his Photography Studio.
+This website is made for a  professional photographer who is having his own Photography studio.
+5 sections show the spectrum of his proffesion, little gallery, testimonials and social media and contact form.
 This web page showing what kind of spectrum of photography he is making and what jobs he made previously.
+This website shoud bring interest of customers wanting to hire him or just have a quick sneak peak who he is, and what kind of job studio can make
 
-This website shoud bring interest of customers wanting to hire him or just have a quick sneak peak who he is.
-
- 
 ## UX 
 
-My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist design. The navyblue, aqua and white color scheme was chosen to create a modern and sleek feel. At the same time Photography made by studio Martinez are very close to nature, sturfer and chilled down style. This is why aqua color si incorpaorted in this project
+My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist design.
+The navyblue, aqua and white color scheme was chosen to create a modern and sleek feel. 
+At the same time Photography made by studio Martinez are very close to nature, in surfer and chilled down style.
+But at the same time navy blue and off white should show that he is making always premium service
+This is why I chose this kind of color scheme.
  
-My website is designed for professional photographer who wants to show a spetrum of his service.
-He is aming rather to have premium service. For that reason I used colors that are no
-Being different than others and actually encourage potenial customers to choose him as their photographer on special occasion.
+Website is nice and neaty to navigate. First thing that potential user will see will be a carousel banner with three main photos.
+This photos should tell to user what specific of photography he represent and specialize for (Wedding, Any type of Events and Business sessions)
+Navbar Logo, should bring thoughts about camera lenses, again in aqua color to show relaxed style of photographer.
 
-Website is bright and easy to navigate. First thing that potential user will see will be a carousel banner with three main photos.
-This photos should tell to user what specific of photography is presenteted and specialized for.
-About other parts of page----
+Next section-About, is a section about a spectrum of services what studio can make. From Family little events to promotional videos.
+This section is divided by little cards to epmhasis and to highlight the options.
+
+Bio section is about the main character -Seb Martinez as an owner of a studio and photographer.
+Backgroud photo present himself but standing backwards for a purpose. He is looking on the horizon or on a place that would like to shoot.
+In white frame there is a short biography text explaining who he is. Everything is delicate and smooth to not change easy going but proffesional character.
+
+Gallery is divided on 4 columns and making nice and neaty overview of he is latest work.
+
+Testimonials section has a little carousel effect. Again on dark background to make impression of profesionalism.
+
+Contact section is on white background to distinct it from previous section. 
+Again aqua buttons should make this feel of chilled environment.
+ A link to my LinkedIn profile, my GitHub, and a downloadable PDF version of my CV were also provided for their ease of access.
+
+
 
 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -26,35 +42,23 @@ In particular, as part of this section we recommend that you provide a list of U
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
-## Features
+## Technologies
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+1. [HTML]
+2. [CSS]
+3. [Bootstrap 4] (https://getbootstrap.com/docs/4.0/getting-started/introduction)
+4. [Javascript] (https://www.javascripting.com/)
+5. [Fontawesome]
+6. [Jquery]
+
  
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+### Features
+This site uses the scrollSpy feature in Bootstrap with an extra JavaScript function added to create a 'smooth scrolling' effect. The navbar also stays collapsed regardless of the screen size to promote a minimalist design.
 
 ### Features Left to Implement
-- Another feature idea
+- In the future this website would contain more popusps, and suppages.
+- I would design better gallery based on javascript.
 
-## Technologies Used
-
-This project use:
-
--[HTML] 
--[Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction)
-HTML using Bootstrap 4 frameworks- to build a core content.
-
--[CSS]
-To style a code and make better UX
-
-And basics of -[Javascript] (https://www.javascripting.com/)
-- Project uses **Javascript** to make simple animations
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 ## Testing
 
@@ -89,14 +93,17 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ## Credits
----
-
 
 ### Content
 ---
-None of the texts were copied. All of them I did by myslef.
+All content in the "About Me/À Propos" and "Work/Travail" sections in this portfolio site were written by me.
 
 ### Media
+---
+
+Most of the photos were taken from Unsplash, a stock image library. Underneath are attached links to photos.
+None of the texts were copied. All of them I did by myslef.
+
 ---
 - The photos used in this site were obtained from
 
@@ -127,8 +134,6 @@ https://img.etimg.com/thumb/msid-60186332,width-643,imgsize-195949,resizemode-4/
 
 **Logo was designed by myself**
 I used a website wwww.freelogodesign.org
-
-
 
 ### Acknowledgements
 
