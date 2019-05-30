@@ -64,19 +64,28 @@ This site uses the scrollSpy feature in Bootstrap with an extra JavaScript funct
 I have done manual testing:
 
 1. Logo-as a home button
-
+   1. Go to any random section.
+   2. try to press on "logo button" and verify if page is going back to home as a main page.
 
 2. Navbar
-
+   1.Go to "navbar section"
+   2. Try to click on every section that contain Navabar and verify if navbar elements will take you to relevant sections.
+   3. On small devices check if navbar changed to hamburger icon. 
+   4. Try to press on Hamburger icon and check if dropdown works
 
 3. Carousel 1 -with hero photos
-
+   1. Carousel is programmed on 7 sec and instead of slide it disolve.
+   2. Carosuel doesnt have indicators wich was designed that way.
+   3. Wait 7 secs and check if carosuel photo changed on the next one in the queue
 
 4. Carousel 2 -Testimonials
+   1. Carousel is programmed on 7 sec and it slides
+   2. Carosuel doesnt have indicators wich was designed that way.
+   3. Wait 7 secs and check if carosuel photo changed on the next one in the queue
 
 
 5. Contact form:
-    1. Go to the "Contact Us" page
+    1. Go to the "Contact me" page
     2. Try to submit the empty form and verify that an error message about the required fields appears
     3. Try to submit the form with an invalid email address and verify that a relevant error message appears
     4. Try to submit the form with all inputs valid and verify that a success message appears.
@@ -89,13 +98,13 @@ There is no bugs and website fully works on browsers as Firefox, Opera or Intern
 
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.
 
-To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://github.com/hschafer2017/HSCHAFER-Portfolio.git into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://github.com/tyratyra/ucfd.git into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
 
 ## Credits
 
 ### Content
 ---
-All content in the "About Me/À Propos" and "Work/Travail" sections in this portfolio site were written by me.
+All content in all sections in this portfolio site were written by me.
 
 ### Media
 ---
