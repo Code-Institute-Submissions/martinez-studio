@@ -1,5 +1,5 @@
 html {
-  scroll-behavior: smooth;
+  scroll-behavior: smooth; 
 }
 
 
@@ -12,7 +12,9 @@ html {
 body {
     position:relative;
 } 
- 
+
+/* Navbar*/
+
 .navbar{ 
     font-size:20px;
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
@@ -46,6 +48,9 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     
 }
 
+/* About-Spectrum-section*/
+
+
 #about{
 background-color:#343a40;
 color:#FFFFFF;
@@ -54,18 +59,19 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 
+
 #about-cards{
     color:#2b2b2b
     
 }
  
 
+/*BIOgraphy with Jo Photos*/
 
 
 #bio {
 background-image:url('../images/jo.jpg');
 background-attachment: fixed;
-
 opacity:0.95;
 background-position: center; 
 background-repeat: no-repeat; 
@@ -84,6 +90,8 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     max-width: 500px;
 
 }
+
+/*testimonials carousell*/
 
 #testimonials {
 background-color: #343a40;
@@ -104,6 +112,8 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 
+
+/*contact form styling*/
 
 .social-links {
     padding-bottom: 15px;
